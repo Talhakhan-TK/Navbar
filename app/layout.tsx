@@ -2,8 +2,8 @@ import Navbar from "./Components/Navbar"
 import Footer from "./Components/Footer"
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-//import "./globals.css";
-import { Component } from "react";
+import "./globals.css";
+//import { Component } from "react";
 import NavbarFirebox from "./Components/NavbarFirexbox";
 
 const geistSans = localFont({
